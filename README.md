@@ -10,4 +10,4 @@ The Unidata CAVE client is primarily geared toward educational and research sett
 
 ## Licensing & Disclaimer
 
-I offer these files in the public domain for you to do with what you wish. Use these files at your own risk.
+I offer these files in the public domain for you to do with what you wish. Use these files at your own risk. 
