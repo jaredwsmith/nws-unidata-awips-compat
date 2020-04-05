@@ -25,6 +25,7 @@
     -->
 <menuContributionFile>
     <include installTo="menu:obs?after=HAZARDS" fileName="menus/warnings/baseWarnings.xml">
+	<!-- Change out "KCHS" in this line to the local WFO you are monitoring most for the CWA Warnings menus -->
         <substitute key="site" value="KCHS" />
         <substitute key="sites" value="KABQ, KABR, KAKQ, KALY, KAMA, KAPX, KARX, KBGM, KBIS, KBMX, KBOI, KBOU, KBOX, KBRO, KBTV, KBUF, KBYZ, KCAE, KCAR, KCHS, KCLE, KCRP, KCTP, KCYS, KDDC, KDLH, KDMX, KDTX, KDVN, KEAX, KEKA, KEPZ, KEWX, KFFC, KFGF, KFGZ, KFSD, KFWD, KGGW, KGID, KGJT, KGLD, KGRB, KGRR, KGSP, KGYX, KHGX, KHNX, KHUN, KICT, KILM, KILN, KILX, KIND, KIWX, KJAN, KJAX, KJKL, KKEY, KLBF, KLCH, KLIX, KLKN, KLMK, KLOT, KLOX, KLSX, KLUB, KLWX, KLZK, KMAF, KMEG, KMFL, KMFR, KMHX, KMKX, KMLB, KMOB, KMPX, KMQT, KMRX, KMSO, KMTR, KOAX, KOHX, KOKX, KOTX, KOUN, KPAH, KPBZ, KPDT, KPHI, KPIH, KPQR, KPSR, KPUB, KRAH, KREV, KRIW, KRLX, KRNK, KSEW, KSGF, KSGX, KSHV, KSJT, KSLC, KSTO, KTAE, KTBW, KTFX, KTOP, KTSA, KTWC, KUNR, KVEF, PAFC, PAFG, PAJK, PGUM, PHFO, TJSJ"/>
         <substitute key="ARsites" value="PAFC, PAFG, PAJK" />
