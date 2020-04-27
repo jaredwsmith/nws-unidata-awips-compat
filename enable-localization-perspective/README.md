@@ -3,6 +3,7 @@
 The `ThinClientPluginBlacklist.txt` file governs which Eclipse plugins are loaded by CAVE in Thin Client mode. By default, the NWS Thin Clients on both Windows and Linux shut down virtually every different perspective other than D2D. In order to add customizations to CAVE, the Localization perspective is required. This file is modified to permit the Localization perspective and its associated components to run.
 
 *PREREQUISITE:* You will need administrator/root permissions to your computer in order to install this file.
+*NOTE:* This modification will not survive an upgrade and will need to be reapplied with the next release.
 
 To install this file and enable the Localization perspective in Thin Client:
 
